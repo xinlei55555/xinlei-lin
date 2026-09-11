@@ -11,6 +11,9 @@ title: Projects
 
 ## <span id="conference"> 📚 Publications & Talks </span>
 
+- **SynthGait-19K: A Physically Grounded Synthetic Video Dataset for Gait Parameter Estimation.** S. Mehraban, **X.L. Lin**, V. Adeli, M. Mirmehdi, A. Dadashzadeh, C. Hansen, A. Iaboni, B. Taati. arXiv preprint, 2026.  
+  [arXiv](https://arxiv.org/abs/2609.08108) [Project page](https://soroushmehraban.github.io/SynthGait-19k/) [Code](https://github.com/TaatiTeam/SynthGait-19k) [Dataset](https://huggingface.co/datasets/SoroushMehraban/SynthGait-19K) [Demo](https://huggingface.co/spaces/SoroushMehraban/GaitXFormer)
+
 - **Ideogram 4.0 Technical Report: Open Model at the Forefront of Design.** Ideogram 4.0 Research Team, 2026.  
   [report](https://ideogram.ai/blog/ideogram-4.0/)
 

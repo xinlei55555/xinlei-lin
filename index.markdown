@@ -16,6 +16,7 @@ I am a machine learning researcher, broadly interested in solving the most impac
 I am currently a Member of Technical Staff (Intern) at [Ideogram](https://ideogram.ai/), training text-to-image models from scratch on the Core Machine Learning Research team. I am also completing a Computer Science Specialist and Molecular Genetics Major at the University of Toronto (Trinity College; expected April 2027), and I have previously worked at the Vector Institute, Amazon Web Services RDS, and the University Health Network.
 
 ## <span id="news">❗ News! 📝</span>
+-  ❗**SynthGait-19K**: *A Physically Grounded Synthetic Video Dataset for Gait Parameter Estimation* is out — 19,272 synthetic walking videos for clinical gait estimation — [[arXiv](https://arxiv.org/abs/2609.08108)] [[Project page](https://soroushmehraban.github.io/SynthGait-19k/)] [[Code](https://github.com/TaatiTeam/SynthGait-19k)] [[Dataset](https://huggingface.co/datasets/SoroushMehraban/SynthGait-19K)]❗
 -  ❗[**Ideogram 4.0**](https://ideogram.ai/blog/ideogram-4.0/) is now released as the best open-weight image model!❗  
 -  ❗**Pain in 3D**: *Generating Controllable Synthetic Faces for Automated Pain Assessment* was accepted at **ICPR 2026** (Lyon, France) — [[arxiv](https://arxiv.org/abs/2509.16727)] [[Code](https://github.com/TaatiTeam/Pain-in-3D)] [[Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)]❗  
 -  ❗**MedSegGen**: *a diffusion transformer for gastrointestinal polyp segmentation data* was presented at the **RSNA Radiology Conference 2025** in Chicago❗🥳  
@@ -35,6 +36,7 @@ I am currently a Member of Technical Staff (Intern) at [Ideogram](https://ideogr
 - **Vector Institute** | April 2024 – April 2025:  
   *Machine Learning Research Intern | Advisor: [Prof. Babak Taati](https://vectorinstitute.ai/team/babak-taati/)*  
   Generated 82.5K 3D facial samples via mesh-based diffusion, neural face rigging (NFR), and physically-based rendering (PBR), while introducing **ViTPain**, a cross-attention model with neutral reference for pain assessment.  
+  ❗**SynthGait-19K**, a physically grounded synthetic video dataset for gait parameter estimation, is now public — [[arXiv](https://arxiv.org/abs/2609.08108)] [[Project page](https://soroushmehraban.github.io/SynthGait-19k/)] [[Code](https://github.com/TaatiTeam/SynthGait-19k)] [[Dataset](https://huggingface.co/datasets/SoroushMehraban/SynthGait-19K)]❗  
   ❗**Pain in 3D** accepted at **ICPR 2026** — [[arxiv](https://arxiv.org/abs/2509.16727)] [[Code](https://github.com/TaatiTeam/Pain-in-3D)] [[Project page](https://xinlei55555.github.io/pain-in-3d.github.io/)]❗  
 
 ---
